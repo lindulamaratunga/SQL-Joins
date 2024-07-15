@@ -8,8 +8,6 @@
 
 [04. With Statement in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2009.%20With%20Statement.pdf)
 
-[06. CROSS APPLY & OUTER APPLY in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2010.%20CROSS%20APPLY%20%26%20OUTER%20APPLY.pdf)
+[05. CROSS APPLY & OUTER APPLY in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2010.%20CROSS%20APPLY%20%26%20OUTER%20APPLY.pdf)
 
-[07. UNION in SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2015.%20UNION.pdf)
-
-[08. Sub Queries in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2020.%20Sub%20Queries.pdf)
+[06. Sub Queries in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2020.%20Sub%20Queries.pdf)
