@@ -1,4 +1,4 @@
-# How to Create SQL Joins
+# Joining Tables in SQL
 
 [01. Joining Two tables in SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2006.%20How%20to%20Join%20two%20tables.pdf)
 
